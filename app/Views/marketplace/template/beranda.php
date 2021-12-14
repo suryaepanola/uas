@@ -9,7 +9,7 @@
                             <!-- Post title-->
                             <h1 class="fw-bolder mb-1">Beranda</h1>
                             <!-- Post meta content-->
-                            <div class="text-muted fst-italic mb-2">Posted on <?=date('l Y-m-d H:i',now("Asia/Jakarta"))?> by Aryanando</div>
+                            <div class="text-muted fst-italic mb-2">Posted on <?=date('l Y-m-d H:i',now("Asia/Jakarta"))?> by SuryaPutra</div>
                             <!-- Post categories-->
                             <a class="badge bg-secondary text-decoration-none link-light" href="#!">Beranda</a>
                             <a class="badge bg-secondary text-decoration-none link-light" href="#!">Produk</a>
